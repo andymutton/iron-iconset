@@ -16,7 +16,6 @@
     "url": "git://github.com/PolymerElements/iron-iconset.git"
   },
   "private": true,
-  "ignore": [],
   "dependencies": {
     "iron-meta": "PolymerElements/iron-meta#^1.0.0",
     "polymer": "Polymer/polymer#^1.0.0"
